@@ -1,0 +1,7 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (6.0)
+    FSharpPlus (1.2.2)
+      FSharp.Core (>= 4.6.2) - restriction: || (>= net45) (>= netstandard2.0)
+      System.ValueTuple (>= 4.4) - restriction: >= net45
+    System.ValueTuple (4.5) - restriction: >= net45
